@@ -222,6 +222,10 @@ footer {
   /*h300*/
 }
 
+#testmonials img {
+  width: 100%;
+}
+
 #homevideo video {
     float: right;
     margin: 1em;
